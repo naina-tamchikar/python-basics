@@ -1,0 +1,34 @@
+
+
+# =====================================
+# Topic : Assignment Operators
+# Assignment Operators value assign
+# aur update karne ke liye use hote hain
+# =====================================
+
+# Simple Assignment
+x = 10
+print("Value of x :", x)
+
+# Add and Assign
+x += 5
+print("After += 5 :", x)
+
+# Subtract and Assign
+x -= 3
+print("After -= 3 :", x)
+
+# Multiply and Assign
+x *= 2
+print("After *= 2 :", x)
+
+# Divide and Assign
+x /= 4
+print("After /= 4 :", x)
+
+# =   Assign Value
+# +=  Add and Assign
+# -=  Subtract and Assign
+# *=  Multiply and Assign
+# /=  Divide and Assign
+
