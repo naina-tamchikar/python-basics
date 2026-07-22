@@ -1,0 +1,15 @@
+
+
+# Student Profile Generator
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+course = input("Enter your course: ")
+
+print("\n===== STUDENT PROFILE =====")
+print("Name   :", name)
+print("Age    :", age)
+print("City   :", city)
+print("Course :", course)
+print("===========================")
